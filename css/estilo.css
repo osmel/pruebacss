@@ -83,7 +83,7 @@
         span#telefono {
             padding-left: 70px;
             color:#9D2E2E;
-            font-size: 30px;
+            font-size: 20px;
         }
 
         @media (min-width: 992px) {
@@ -112,6 +112,13 @@
             #espacio {
                  padding-top: 85px; /*espacio para empujar el carrusel abajo*/
             }            
+
+        span#telefono {
+            padding-left: 70px;
+            color:#9D2E2E;
+            font-size: 30px;
+        }
+
 
 
         }            

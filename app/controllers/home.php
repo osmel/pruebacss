@@ -30,6 +30,22 @@ class Home extends CI_Controller {
 		$this->load->view( 'sitio/home' );
 	}
 
+	public function soporte(){
+		$this->load->view( 'sitio/soporte' );
+	}
+
+	public function preguntas(){
+		$this->load->view( 'sitio/preguntas' );
+	}
+
+	public function acerca(){
+		$this->load->view( 'sitio/acerca' );
+	}
+
+	public function contacto(){
+		$this->load->view( 'sitio/contacto' );
+	}
+
 
 
 /////////////////validaciones/////////////////////////////////////////	

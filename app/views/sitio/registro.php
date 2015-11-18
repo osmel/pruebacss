@@ -11,13 +11,13 @@
 
 	<div>
 		<div class="col-sm-12 col-md-12">
-			<h4>
-				Llena el formulario y solicita la visita de un técnico o haznos saber tus inquietudes ,
-			 	por este medio damos respuesta a las preguntas más frecuentes de nuestros usuarios .
-			 </h4>
-		 </div>
-	
-	<br/>
+				<h4>
+					Llena el formulario y solicita la visita de un técnico o haznos saber tus inquietudes ,
+				 	por este medio damos respuesta a las preguntas más frecuentes de nuestros usuarios .
+				 </h4>
+			 </div>
+		
+		<br/>
 	
 		<div class="panel panel-primary col-sm-12 col-md-12">
 			

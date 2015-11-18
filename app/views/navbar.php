@@ -26,7 +26,9 @@
                             <!-- grafico o titulo del menu-->                        
                             <!-- <a class="navbar-brand" href="#">Titulo de movil</a> -->
                             <div id="todo_logo_menu"> 
-                                    <img id="logo1" src="http://placehold.it/222x63">
+                                    <a href="<?php echo base_url();?>" class="elem_menu">
+                                      <img id="logo1" src="http://placehold.it/222x63">
+                                    </a>  
                                     <span id="telefono">LLamar - 5537304166 </span>
 
                             </div>
@@ -37,22 +39,22 @@
                         <div class="todo_texto_menu collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <ul class="nav navbar-nav">
                                 <li class="active1">
-                                    <a href="#" class="elem_menu">
+                                    <a href="soporte" class="elem_menu">
                                         SOPORTE <!-- <span class="sr-only">(current)</span> -->
                                     </a> 
                                 </li>
                                 <li>    
-                                    <a href="#" class="elem_menu">
+                                    <a href="preguntas" class="elem_menu">
                                         PREGUNTAS 
                                     </a>                     
                                  </li>
                                  <li>   
-                                    <a href="#" class="elem_menu">
+                                    <a href="acerca" class="elem_menu">
                                         ACERCA DE NOSOTROS
                                     </a> 
                                  </li>   
                                  <li>
-                                    <a href="#" class="elem_menu">
+                                    <a href="contacto" class="elem_menu">
                                         CONTACTANOS 
                                     </a>  
                                  </li>   
