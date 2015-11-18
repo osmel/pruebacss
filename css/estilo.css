@@ -61,8 +61,6 @@
 
 
 
-
-
         #todo_logo_menu{
             float:left;
             height: auto;
@@ -78,25 +76,32 @@
             font-weight: bold;
             /*float: left;  no hace falta si el contenido de los enlaces no tuviesen <br/> */
             cursor: pointer;
+            background-color: wheat;
         }
 
         span#telefono {
-            padding-left: 70px;
-            color:#9D2E2E;
-            font-size: 20px;
+            padding-left: 0px;
+            color: #9D2E2E;
+            font-size: 25px;
+        }
+
+        .logo_menu{
+            display: none;
         }
 
         @media (min-width: 992px) {
+           
             .todo_texto_menu{ /*elementos del menu*/
                     text-align:center;
                     font-size: 14px;
                     font-weight: bold;
                     float:right;
                     cursor: pointer;
-                }
-             .elem_menu{
+                    background-color: transparent;
+            }
+            .elem_menu{
                  color: #FFF !important;
-             }   
+            }   
 
             nav#cabecera{
                 font-size: 13px;
@@ -113,11 +118,16 @@
                  padding-top: 85px; /*espacio para empujar el carrusel abajo*/
             }            
 
-        span#telefono {
-            padding-left: 70px;
-            color:#9D2E2E;
-            font-size: 30px;
-        }
+            span#telefono {
+                padding-left: 70px;
+                color:#9D2E2E;
+                font-size: 30px;
+            }
+
+           .logo_menu{
+                display: inline;
+            }
+
 
 
 
@@ -182,9 +192,10 @@
 
 .liston_lateral {
     background: url(../img/carrusel/listonazul.jpg) no-repeat;
+    background-size: 100% 80px;
     position: absolute;
-    width: 265px;
-    height: 78px;
+    width: 100%; /*265px;*/
+    height: 100%;
 }
 
 .sobre_liston {
@@ -212,7 +223,7 @@
     line-height: 2;
     font-size: 1em;
     position: relative;
-    width: 198px;
+    width: 95%;
 
 }
 
@@ -223,3 +234,4 @@
 #cssmenu ul li {
     border-bottom: 1px solid #D3D1D1;
 }
+

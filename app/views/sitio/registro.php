@@ -19,7 +19,7 @@
 		
 		<br/>
 	
-		<div class="panel panel-primary col-sm-12 col-md-12">
+		<div class="panel1 panel-primary col-sm-12 col-md-12">
 			
 			<div class="panel-body">
 

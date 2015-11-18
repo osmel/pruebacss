@@ -26,7 +26,7 @@
                             <!-- grafico o titulo del menu-->                        
                             <!-- <a class="navbar-brand" href="#">Titulo de movil</a> -->
                             <div id="todo_logo_menu"> 
-                                    <a href="<?php echo base_url();?>" class="elem_menu">
+                                    <a href="<?php echo base_url();?>" class="logo_menu">
                                       <img id="logo1" src="http://placehold.it/222x63">
                                     </a>  
                                     <span id="telefono">LLamar - 5537304166 </span>

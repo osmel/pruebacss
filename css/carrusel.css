@@ -1,15 +1,19 @@
 
     .caja_carrusel {
-        width: 565px!important;
-        position: absolute;
+        width: 60%;
         margin-left: 0;
-        bottom: 31px;
+        bottom: 42%; /*31px;*/
+        
+        position: absolute;
         background-color: rgb(1,125,254);
         opacity: 0.8;
     }
 
+
+
+
     .texto_carrusel {
-        margin: 10px;
+        margin: 0px;
         color: #FFF;
     }
 
@@ -31,6 +35,7 @@
         color: #FFF;
         text-align: left;
         display: table;
+        font-size: 12px;
     }
 
 
@@ -67,3 +72,32 @@
     margin: 0;
     max-width: 700px;
 }
+
+
+
+    .textinterior_carrusel, .tituloCarrusel{
+        display: none;
+    }
+
+    .tituloCarruselGen h2{
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+     @media (min-width: 992px) {
+        .textinterior_carrusel, .tituloCarrusel{
+            display: block;
+        }
+
+        .caja_carrusel {
+            width: 60%;
+            margin-left: 0;
+            bottom: 60%; /*31px;*/
+            
+            position: absolute;
+            background-color: rgb(1,125,254);
+            opacity: 0.8;
+        }
+
+
+     }       
