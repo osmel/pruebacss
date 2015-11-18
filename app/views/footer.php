@@ -1,6 +1,11 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
 
-    
+<footer id="pie">
+    Derechos Reservados &copy; 2010-2011
+
+</footer>
+
+    <!--    
     <div id="pie" >
         <div id="contenido_pie">
             <div id="centro_contenido_pie">
@@ -85,6 +90,8 @@
         <div id="ultimo_pie"> </div>
     </div>
 
+    -->
+
     <!-- Jquery -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.form.min.js"></script>
@@ -92,36 +99,15 @@
 
 
 
-    <?php  echo link_tag('css/normalize.css');  ?>
+    <?php // echo link_tag('css/normalize.css');  ?>
     <?php // echo link_tag('css/screen.css');  ?>
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
-     
-
-    <!-- componente fecha simple -->
-    <?php echo link_tag('css/bootstrap-datepicker.css'); ?>
-    
-    <!-- componente rango fecha -->
-    <?php echo link_tag('css/daterangepicker-bs3.css'); ?>
-
 
 	
-    <!-- nuestro js principal -->
+    <!-- nuestro js principal 
     <script type="text/javascript" src="<?php echo base_url(); ?>js/mio.js"></script>
-
-	<!--CARRUSEL -->
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.bxslider.js"></script>
-	<script type="text/javascript" src="<?php echo base_url(); ?>js/jquery.bxslider.min.js"></script>
-	<?php  echo link_tag('css/jquery.bxslider.css');  ?>
-
-	
-
-<!-- componente fecha simple -->
-    <script type="text/javascript" src="<?php echo base_url(); ?>js/bootstrap-datepicker.js"></script>
-
-    <!-- componente rango fecha -->
-    <script type="text/javascript" src="<?php echo base_url(); ?>js/moment.js"></script>        
-    <script type="text/javascript" src="<?php echo base_url(); ?>js/daterangepicker.js"></script>       
+    -->
     
 
     <!--para conversion a base64.encode y base64.decode -->
@@ -129,15 +115,10 @@
     <script src="<?php echo base_url(); ?>js/base64/jquery.base64.min.js" type="text/javascript"></script>
     
 
-    <!--datatables para el caso de salidas -->
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>js/media/css/jquery.dataTables.css">
-    <script type="text/javascript" language="javascript" src="<?php echo base_url(); ?>js/media/js/jquery.dataTables.js"></script>
-    <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>js/extensions/TableTools/css/dataTables.tableTools.css">
-    <script type="text/javascript" language="javascript" src="<?php echo base_url(); ?>js/extensions/TableTools/js/dataTables.tableTools.js"></script>
-
 
     <!-- Mi estilo -->
     <?php  echo link_tag('css/estilo.css'); ?>
+    <?php  echo link_tag('css/carrusel.css'); ?>
     
 
 

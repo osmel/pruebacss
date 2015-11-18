@@ -18,4 +18,4 @@
 <body>
 	 
 <?php $this->load->view( 'navbar' ); ?>
-	<?php //$this->load->view( 'carrusel' ); ?>
+	<?php $this->load->view( 'carrusel' ); ?>
