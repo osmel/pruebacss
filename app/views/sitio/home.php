@@ -5,88 +5,123 @@
      
       <hr class="linea_divisoras_largas" style="float:left;"> 
       <section class="container">
-              
-            <!--Slider -->
-               <div class="row">
-                  <div id="contenido" class="col-xs-12 col-md-9">
 
-                        <?php $this->load->view( 'sitio/registro' ); ?>                  
 
-                  </div>
+          <div class="row" id="marcas">
 
-                  <div id="lateral" class="col-xs-12 col-md-3">
-                        <div class="liston_lateral"></div> 
-                        <div class="sobre_liston">
-                              <a class="titular_menu_reglamentario">Nuestras Marcas</a> 
-                              <div id="cssmenu">
-                                 <div class="btn_ver_menu">MENÚ</div> 
-                                 <ul> 
-                                    
-                                    <li>
-                                          <a class="linksActivo">
-                                                <div class="btn_activo"></div>
-                                                <span>Primera preg</span>
-                                          </a>
-                                    </li>
+              <div class="col-xs-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  
+                  <img src="img/carrusel/subzero.jpg" style="width:252px;height:72px" > 
+                </a>
+                
+                <p>Refrigerador</p>
+                <p>Cava de vino</p>
+                <p>Fabrica de hielos</p>
+              </div>
 
-                                    <li>
-                                          <a class="linksActivo">
-                                                <div class="btn_activo"></div>
-                                                <span>Segunda preg</span>
-                                          </a>
-                                    </li>
-                                    <li>
-                                          <a class="linksActivo">
-                                                <div class="btn_activo"></div>
-                                                <span>Tercera preg</span>
-                                          </a>
-                                    </li>
+              <div class="col-xs-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="img/carrusel/wolf.jpg" style="width:252px;height:72px" >
+                </a>
+                
+                <p>Estufa</p>
+                <p>Campana</p>
+                <p>Refrigerador</p>
+                <p>Lavavajillas</p>
+                <p>Horno</p>
 
-                                 </ul> 
-                              </div> 
-                        </div>
-                  </div>
-               </div>   
-            <div class="row"></div>      
 
-            <h3 style="text-align:left; color:#000;">Visitanos en nuestra tienda</h3>
+              </div>
+
+
+              <div class="col-xs-6 col-md-3" >
+                <a href="#" class="thumbnail">
+                  <img src="img/carrusel/viking.jpg" style="width:252px;height:72px" >
+                </a>
+                  
+                <p>Parrilla</p>
+                <p>Estufa</p>
+                <p>Lavavajillas</p>
+                <p>Horno de microondas</p>
+                <p>Horno de conveccion</p>
+                
+              </div>
+
+
+              <div class="col-xs-6 col-md-3">
+                <a href="#" class="thumbnail">
+                  <img src="img/carrusel/smeg.png" style="width:252px;height:72px" >
+                </a>
+                
+                <p>Horno de microondas</p>
+                <p>Horno de convenccion</p>
+                <p>Parrilla</p>
+                <p>Campana</p>
+
+              </div>
+
+
+        </div>      
+           
             <hr class="c75-linea-titulo-super">
             <br/>
 
-            <div class="row">
 
-              <div class="col-xs-6 col-md-3">
+        <div class="row" id="leyendas">
+
+              <div class="col-xs-6 col-md-4">
                 <a href="#" class="thumbnail">
-                  <img src="http://placehold.it/260x160" alt="">
+                  
+                  <img src="img/carrusel/tecnicos.jpg" style="width:260px;height:160px" >
                 </a>
-                <p>1ra imagen</p>
+                
+                <p>
+                    resumen tecnico resumen tecnico resumen tecnico resumen tecnico resumen tecnico 
+                    resumen tecnico resumen tecnico resumen tecnico resumen tecnico resumen tecnico 
+                    resumen 
+                  </p>
               </div>
 
-              <div class="col-xs-6 col-md-3">
+              <div class="col-xs-6 col-md-4">
                 <a href="#" class="thumbnail">
-                  <img src="http://placehold.it/260x160" alt="">
+                  <img src="img/carrusel/marketing.jpg" style="width:260px;height:160px" >
                 </a>
-                <p>2da imagen</p>
+                
+                <p>
+                    resumen marketing resumen marketing resumen marketing resumen marketing resumen marketing
+                    resumen marketing resumen marketing resumen marketing resumen marketing resumen marketing
+                    resumen marketing 
+                </p>
+                
+
+
               </div>
 
 
-              <div class="col-xs-6 col-md-3">
+              <div class="col-xs-6 col-md-4">
                 <a href="#" class="thumbnail">
-                  <img src="http://placehold.it/260x160" alt="">
+                   <img src="img/carrusel/logos.jpg"  style="width:320px;height:160px" >
                 </a>
-                <p>3ra imagen</p>
+                
+                <p>
+                  resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas
+                  resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas
+                  resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas
+                </p>
+                
+                
+                
               </div>
 
 
-              <div class="col-xs-6 col-md-3">
-                <a href="#" class="thumbnail">
-                  <img src="http://placehold.it/260x160" alt="">
-                </a>
-                <p>4ta imagen</p>
-              </div>
 
 
-            </div>
+        </div>      
+
+      <div class="row" id="gracias">
+        <h1>GRACIAS POR VISITAR NUESTRA PAGINA Y CONTRATAR NUESTROS SERVICIOS</h1>
+      </div>
 
 
       </section>
