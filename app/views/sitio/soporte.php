@@ -17,7 +17,7 @@
                   <div id="lateral" class="col-xs-12 col-md-3">
                         <div class="liston_lateral"></div> 
                         <div class="sobre_liston">
-                              <a class="titular_menu_reglamentario">Promocionamos</a> 
+                              <a class="titular_menu_reglamentario">Nuestras Marcas</a> 
                               <div id="cssmenu">
                                  <div class="btn_ver_menu">MENÚ</div> 
                                  <ul> 

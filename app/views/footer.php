@@ -1,7 +1,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
 
 <footer id="pie">
-    Derechos Reservados &copy; 2010-2011
+    Derechos Reservados &copy; 2015-2016
 
 </footer>
 

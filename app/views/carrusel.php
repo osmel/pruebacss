@@ -18,7 +18,7 @@
 						<div class="caja_carrusel"> 
 							<div class="texto_carrusel"> 
 								<div class="tituloCarruselGen">
-									 <h2>PRUEBA GRANDE</h2>
+									 <h2>Soporte GRANDE</h2>
 								</div> 
 								<div class="tituloCarrusel">
 									<h4>PRUEBA MEDIANA MEDIANA</h4>
@@ -28,7 +28,7 @@
 								</div> 
 							</div> 
 							<div class="leermas">
-								<a href="http://www.ibero.mx/admision-licenciaturas-paso-paso">
+								<a href="soporte">
 									<h2>LEER MÁS</h2>
 								</a>
 							</div> 
@@ -49,7 +49,7 @@
 						<div class="caja_carrusel"> 
 							<div class="texto_carrusel"> 
 								<div class="tituloCarruselGen">
-									 <h2>PRUEBA GRANDE1</h2>
+									 <h2>Preguntas GRANDE1</h2>
 								</div> 
 								<div class="tituloCarrusel">
 									<h4>PRUEBA MEDIANA MEDIANA1</h4>
@@ -59,7 +59,7 @@
 								</div> 
 							</div> 
 							<div class="leermas">
-								<a href="http://www.ibero.mx/admision-licenciaturas-paso-paso">
+								<a href="preguntas">
 									<h2>LEER MÁS</h2>
 								</a>
 							</div> 
@@ -76,7 +76,7 @@
 						<div class="caja_carrusel"> 
 							<div class="texto_carrusel"> 
 								<div class="tituloCarruselGen">
-									 <h2>PRUEBA GRANDE2</h2>
+									 <h2>Acerca GRANDE2</h2>
 								</div> 
 								<div class="tituloCarrusel">
 									<h4>PRUEBA MEDIANA MEDIANA2</h4>
@@ -86,7 +86,7 @@
 								</div> 
 							</div> 
 							<div class="leermas">
-								<a href="http://www.ibero.mx/admision-licenciaturas-paso-paso">
+								<a href="acerca">
 									<h2>LEER MÁS</h2>
 								</a>
 							</div> 
@@ -104,7 +104,7 @@
 						<div class="caja_carrusel"> 
 							<div class="texto_carrusel"> 
 								<div class="tituloCarruselGen">
-									 <h2>PRUEBA GRANDE3</h2>
+									 <h2>CONTACTO GRANDE3</h2>
 								</div> 
 								<div class="tituloCarrusel">
 									<h4>PRUEBA MEDIANA MEDIANA3</h4>
@@ -114,7 +114,7 @@
 								</div> 
 							</div> 
 							<div class="leermas">
-								<a href="http://www.ibero.mx/admision-licenciaturas-paso-paso">
+								<a href="contacto">
 									<h2>LEER MÁS</h2>
 								</a>
 							</div> 
