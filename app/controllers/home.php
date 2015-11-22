@@ -30,20 +30,20 @@ class Home extends CI_Controller {
 		$this->load->view( 'sitio/home' );
 	}
 
-	public function soporte(){
-		$this->load->view( 'sitio/soporte' );
+	public function subzero(){
+		$this->load->view( 'sitio/interiores/subzero' );
 	}
 
-	public function preguntas(){
-		$this->load->view( 'sitio/preguntas' );
+	public function smeg(){
+		$this->load->view( 'sitio/interiores/smeg' );
 	}
 
-	public function acerca(){
-		$this->load->view( 'sitio/acerca' );
+	public function wolf(){
+		$this->load->view( 'sitio/interiores/wolf' );
 	}
 
-	public function contacto(){
-		$this->load->view( 'sitio/contacto' );
+	public function viking(){
+		$this->load->view( 'sitio/interiores/viking' );
 	}
 
 

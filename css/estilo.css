@@ -153,9 +153,20 @@ gris plateado
 }
 
 
-#leyendas {
+#leyendas p{
     text-align: left;
+    font-size: 18px;
+    color:#FFF;
 }
+
+
+
+#subzero p{
+    text-align: center;
+    font-size: 18px;
+    color:#FFF;
+}
+
 
 #gracias h1{
     text-align: center;
@@ -244,7 +255,7 @@ gris plateado
 
             #izquierda .info {
                 font-family: Alegreya, serif;
-                font-size: 22px; /*30px*/
+                font-size: 18px; /*30px*/
                 font-weight: bold;
                 color: rgba(36, 39, 40, 0.5);
                 text-shadow: 1px 1px 2px #cbcccc, 0 0 0 #000, 1px 1px 2px #cbcccc;
@@ -263,3 +274,8 @@ gris plateado
 
 
         }            
+
+.inicio{
+    padding-top: 12px;
+    margin-left:0px;
+}

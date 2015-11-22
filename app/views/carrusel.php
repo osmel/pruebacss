@@ -12,7 +12,7 @@
 		  <div class="carousel-inner" role="listbox" style="position:relative;">
 		    <div class="item active">
 		       
-		       <img src="img/carrusel/banner1.jpg">
+		       <img src="img/carrusel/smeg/carrusel.jpg" style="width:100%;height:300px;">
 		      <div class="carousel-caption">
 
 				
@@ -24,14 +24,14 @@
 		    </div>
 
  			<div class="item">
-		      <img src="img/carrusel/banner1.jpg">
+		      <img src="img/carrusel/subzero/carrusel.jpg"  style="width:100%; height:300px;">
 		      <div class="carousel-caption">
 		       
 
 		      </div>
 		    </div>
 		    <div class="item">
-		      <img src="img/carrusel/banner2.jpg">
+		      <img src="img/carrusel/wolf/carrusel.jpg"  style="width:100%; height:300px;">
 		      <div class="carousel-caption">
 		       
 
@@ -39,7 +39,7 @@
 		    </div>
 
 		    <div class="item">
-		      <img src="img/carrusel/banner3.jpg">
+		      <img src="img/carrusel/viking/carrusel.jpg"   style="width:100%; height:300px;">
 		      <div class="carousel-caption">
 
 		      </div>

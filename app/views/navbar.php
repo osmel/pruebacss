@@ -30,6 +30,10 @@
                         <div class="col-xs-6 col-md-6">
                               <span class="info">6359-6358</span>
                         </div>
+
+                         <div class="col-xs-12 col-md-12">
+                              <span class="info">correo:servicio.enseresfinos@gmail.com</span>
+                        </div>
                     </div>         
 
 

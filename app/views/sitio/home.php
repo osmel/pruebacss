@@ -10,54 +10,55 @@
           <div class="row" id="marcas">
 
               <div class="col-xs-6 col-md-3">
-                <a href="#" class="thumbnail">
+                <a href="subzero" class="thumbnail">
                   
-                  <img src="img/carrusel/subzero.jpg" style="width:252px;height:72px" > 
+                  <img src="img/carrusel/subzero/subzero.jpg" style="width:252px;height:72px" > 
                 </a>
                 
                 <p>Refrigerador</p>
                 <p>Cava de vino</p>
-                <p>Fabrica de hielos</p>
+                <p>Fábrica de hielos</p>
               </div>
 
               <div class="col-xs-6 col-md-3">
-                <a href="#" class="thumbnail">
+                <a href="wolf" class="thumbnail">
                   <img src="img/carrusel/wolf.jpg" style="width:252px;height:72px" >
                 </a>
                 
-                <p>Estufa</p>
+                <p>Horno de convección</p>
+                <p>Horno de microondas</p>
+                <p>Parrilla</p>
                 <p>Campana</p>
-                <p>Refrigerador</p>
-                <p>Lavavajillas</p>
-                <p>Horno</p>
 
 
               </div>
 
 
               <div class="col-xs-6 col-md-3" >
-                <a href="#" class="thumbnail">
+                <a href="viking" class="thumbnail">
                   <img src="img/carrusel/viking.jpg" style="width:252px;height:72px" >
                 </a>
                   
                 <p>Parrilla</p>
                 <p>Estufa</p>
                 <p>Lavavajillas</p>
-                <p>Horno de microondas</p>
-                <p>Horno de conveccion</p>
+                <p>Horno</p>
+                <p>Refrigerador</p>
+                <p>campana</p>
                 
               </div>
 
 
               <div class="col-xs-6 col-md-3">
-                <a href="#" class="thumbnail">
+                <a href="smeg" class="thumbnail">
                   <img src="img/carrusel/smeg.png" style="width:252px;height:72px" >
                 </a>
                 
                 <p>Horno de microondas</p>
-                <p>Horno de convenccion</p>
+                <p>Horno de convección</p>
                 <p>Parrilla</p>
-                <p>Campana</p>
+                <p>Estufa</p>
+                <p>Lavavajillas</p>
 
               </div>
 
@@ -77,9 +78,12 @@
                 </a>
                 
                 <p>
-                    resumen tecnico resumen tecnico resumen tecnico resumen tecnico resumen tecnico 
-                    resumen tecnico resumen tecnico resumen tecnico resumen tecnico resumen tecnico 
-                    resumen 
+                  Nuestros técnicos estan capacitados para brindar la mejor atención a sus equipos, como son: <br/>
+                     * Revisión <br/>
+                     * Mantenimientos <br/>
+                     * Reparaciones  <br/>
+                     * Instalaciones <br/>
+                   
                   </p>
               </div>
 
@@ -89,10 +93,9 @@
                 </a>
                 
                 <p>
-                    resumen marketing resumen marketing resumen marketing resumen marketing resumen marketing
-                    resumen marketing resumen marketing resumen marketing resumen marketing resumen marketing
-                    resumen marketing 
-                </p>
+                   Solicite su servicio llamando a los télefonos y una de nuestras operadoras lo atenderá para tomar sus datos y agendar la visita del técnico en su domincilio.
+                   
+                  </p>
                 
 
 
@@ -105,9 +108,10 @@
                 </a>
                 
                 <p>
-                  resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas
-                  resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas
-                  resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas resumen 4 marcas
+                 
+                El objetivo de la empresa es brindarle el mejor servicio para sus equipos.
+                "Satisfacer las necesidades del cliente es nuestra prioridad".
+
                 </p>
                 
                 

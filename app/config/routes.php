@@ -48,10 +48,10 @@
 $route['default_controller']	 		= 'Home';
 $route['404_override'] 					= '';
 
-$route['soporte']							= 'home/soporte';
-$route['preguntas']							= 'home/preguntas';
-$route['acerca']							= 'home/acerca';
-$route['contacto']							= 'home/contacto';
+$route['subzero']							= 'home/subzero';
+$route['wolf']							= 'home/wolf';
+$route['viking']							= 'home/viking';
+$route['smeg']							= 'home/smeg';
 
 ///////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////
